@@ -1,9 +1,11 @@
-<div style="position: relative; width: 100%; height: 400px; background: url('404.gif') no-repeat center center; background-size: cover;">
+<div style="position: relative; width: 100%; height: 400px;">
+  <img src="404.gif" alt="Background GIF" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.5;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-align: center;">
-<h1 align="center">Bienvenido!</h1>
-<p align="center">⭐ Estudiante de Informática ⭐</p>
-
-<h2 align="center">🚀 Lenguajes y/o tecnologías que uso:</h2>
+    <h1 align="center">Bienvenido!</h1>
+    <p align="center">⭐ Estudiante de Informática ⭐</p>
+    <h2 align="center">🚀 Lenguajes y/o tecnologías que uso:</h2>
+  </div>
+</div>
 
 <table align="center">
   <tr>
@@ -118,5 +120,4 @@
   </tr>
 </table>
 
-</div>
-</div>
+<p align="center">🌟 Siempre aprendiendo ... 🌟</p>
