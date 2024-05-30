@@ -1,3 +1,5 @@
+<div style="position: relative; width: 100%; height: 400px; background: url('404.gif') no-repeat center center; background-size: cover;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-align: center;">
 <h1 align="center">Bienvenido!</h1>
 <p align="center">⭐ Estudiante de Informática ⭐</p>
 
@@ -115,3 +117,6 @@
     </td>
   </tr>
 </table>
+
+</div>
+</div>
