@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido a mi perfil de GitHub</h1>
 <p align="center">⭐ Estudiante de Informática ⭐</p>
 
-<h2 align="center">🚀 Lenguajes que uso:</h2>
+<h2 align="center">🚀 Lenguajes y/o tecnologías que uso:</h2>
 
 <table align="center">
   <tr>
