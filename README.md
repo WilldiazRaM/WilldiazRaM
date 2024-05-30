@@ -119,5 +119,9 @@
     </td>
   </tr>
 </table>
-<img src="404.gif" alt="Background GIF" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.5;">
+
 <p align="center">🌟 Siempre aprendiendo ... 🌟</p>
+-Proyecto Django:
+```
+garajeloshermanos.cl
+```
