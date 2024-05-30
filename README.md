@@ -121,7 +121,3 @@
 </table>
 
 <p align="center">🌟 Siempre aprendiendo ... 🌟</p>
--Proyecto Django:
-```
-garajeloshermanos.cl
-```
