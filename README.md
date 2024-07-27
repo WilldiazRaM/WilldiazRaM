@@ -124,3 +124,9 @@
 </table>
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: #ECF0F1;">🌟 Siempre aprendiendo ... 🌟</p>
+
+## 🌐 Redes:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williams-diaz-santander-450749247/)
+
+
