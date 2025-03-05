@@ -6,7 +6,12 @@
 
 <table align="center" style="margin-top: 30px;">
   <tr>
-    
+    <td align="center" width="96">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+  </a>
+  <br><span style="color: #FF9900;">AWS</span>
+</td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank">
         <img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap" />
@@ -142,5 +147,4 @@
 ## 🌐 Redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williams-diaz-santander-450749247/)
-
 
