@@ -7,6 +7,19 @@
 <table align="center" style="margin-top: 30px;">
   <tr>
     <td align="center" width="96">
+      <a href="https://nmap.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="48" height="48" alt="Nmap" />
+      </a>
+      <br><span style="color: #00FF00;">Nmap</span>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.lua.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="48" height="48" alt="Lua" />
+      </a>
+      <br><span style="color: #000080;">Lua</span>
+    </td>
+  </tr>
+    <td align="center" width="96">
       <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
