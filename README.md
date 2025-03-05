@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="48" height="48" alt="Nmap" />
+        <img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap" />
       </a>
       <br><span style="color: #00FF00;">Nmap</span>
     </td>
