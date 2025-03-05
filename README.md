@@ -5,11 +5,11 @@
 </div>
 
 <table align="center" style="margin-top: 30px;">
+  <!-- Fila de Nmap y Lua -->
   <tr>
-    
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank">
-        <img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap" />
+        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="48" height="48" alt="Nmap" />
       </a>
       <br><span style="color: #00FF00;">Nmap</span>
     </td>
@@ -20,6 +20,8 @@
       <br><span style="color: #000080;">Lua</span>
     </td>
   </tr>
+  <!-- Otras filas de tecnologías -->
+  <tr>
     <td align="center" width="96">
       <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -142,4 +144,3 @@
 ## 🌐 Redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williams-diaz-santander-450749247/)
-
