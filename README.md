@@ -1,6 +1,7 @@
-# 👋 Hola, soy William Díaz
+# Will Diaz
 
 **Ingeniero Informático** enfocado en **Desarrollo Seguro (AppSec)** y **SecDevOps**. Me interesa construir productos que sean **escalables, observables y seguros por defecto**.
+**Aprendiendo ML...**
 
 - 🔐 Intereses: Threat Modeling, OWASP ASVS/Top 10, ATT&CK v18, hardening de APIs, SDLC seguro.
 - ⚙️ SecDevOps: CI/CD con escaneo (SAST/DAST/Secrets), SBOM, firmas, supply chain.
@@ -73,13 +74,15 @@
 </p>
 
 
-> También uso [lowlighter/metrics] para un resumen semanal (commits, issues, lenguajes, etc.).
+![Metrics](./metrics.svg)
 
 ---
 
 ## 📝 Contacto
 
 - LinkedIn: [linkedin.com/in/williams-diaz-450749247](https://www.linkedin.com/in/williams-diaz-450749247/)
-- Email: *agrega tu correo si lo deseas*
+- Email: wi.diaz@duocuc.cl
+
+
 
 > 🌟 _Siempre aprendiendo y construyendo con foco en seguridad_.
