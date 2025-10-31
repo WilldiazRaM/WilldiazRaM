@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilldiazRaM&layout=compact&langs_count=8" height="150" />
 </p>
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
 
 ---
