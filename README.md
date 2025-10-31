@@ -18,7 +18,10 @@
 - **AhorraLuz (CAPSTONE)** – Django + análisis de consumo energético 🇨🇱  
   Ingeniería de características (Year/Month/Hour/Is_Weekday), base para predicción de consumo/ahorro y huella de carbono.
 
-> 👉 _Fijé_ estos repos en mi perfil para ver código, pipelines y notas de seguridad.
+- **TallerMk** – Django + Taller mecanico + Reservas Online, Formulario de contacto 🇨🇱  
+  Pyme impulsada localmente, Puente Alto Santiago Chile.
+
+
 
 ---
 
@@ -74,7 +77,7 @@
 </p>
 
 
-![Metrics](./metrics.svg)
+
 
 ---
 
