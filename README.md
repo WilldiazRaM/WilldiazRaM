@@ -18,8 +18,7 @@
 - **TallerMk** – Django para PyME (reservas online, formulario de contacto) — despliegue en Hosting Nacional con Interfaz Cpanel.
 
 - **Automatizaciones y análisis de red:**  
-  He desarrollado scripts para integración con mitmproxy y análisis TLS/JA3, incluyendo un motor SOAR/mitigación en Python (ejemplo: `soar_mitigation_automation.py`). :contentReference[oaicite:1]{index=1}
-
+  He desarrollado scripts para integración con mitmproxy y análisis TLS/JA3, incluyendo un motor SOAR/mitigación en Python.
 ---
 
 ## 🛠️ Qué uso y conozco (nivel)
