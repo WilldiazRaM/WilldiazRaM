@@ -1,146 +1,84 @@
-<div style="background-color: #2C3E50; color: #ECF0F1; padding: 50px 0; text-align: center;">
-  <h1 style="font-family: 'Arial', sans-serif; font-size: 48px;">Bienvenido!</h1>
-  <p style="font-family: 'Arial', sans-serif; font-size: 24px;">⭐ Estudiante de Informática ⭐</p>
-  <h2 style="font-family: 'Arial', sans-serif; font-size: 32px;">🚀 Lenguajes y/o tecnologías que uso:</h2>
-</div>
+# 👋 Hola, soy William Díaz
 
-<table align="center" style="margin-top: 30px;">
-  <!-- Fila de Nmap y Lua -->
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nmap.org/" target="_blank">
-        <img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap" />
-      </a>
-      <br><span style="color: #00FF00;">Nmap</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.lua.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="48" height="48" alt="Lua" />
-      </a>
-      <br><span style="color: #000080;">Lua</span>
-    </td>
-  </tr>
-  <!-- Otras filas de tecnologías -->
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br><span style="color: #F1C40F;">JavaScript</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br><span style="color: #3498DB;">CSS3</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br><span style="color: #E74C3C;">HTML5</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br><span style="color: #3E863D;">Node.js</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
-      </a>
-      <br><span style="color: #606060;">Express</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://ionicframework.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="48" height="48" alt="Ionic" />
-      </a>
-      <br><span style="color: #3880FF;">Ionic</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br><span style="color: #F29111;">MySQL</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br><span style="color: #336791;">PostgreSQL</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/database/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br><span style="color: #F80000;">Oracle</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
-      </a>
-      <br><span style="color: #003B57;">SQLite</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br><span style="color: #FF9900;">AWS</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br><span style="color: #2496ED;">Docker</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
-      </a>
-      <br><span style="color: #0078D4;">Azure</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br><span style="color: #092E20;">Django</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.electronjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" />
-      </a>
-      <br><span style="color: #47848F;">Electron</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br><span style="color: #FF6C37;">Postman</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br><span style="color: #F05032;">Git</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br><span style="color: #306998;">Python</span>
-    </td>
-  </tr>
-</table>
+**Ingeniero Informático** enfocado en **Desarrollo Seguro (AppSec)** y **SecDevOps**. Me interesa construir productos que sean **escalables, observables y seguros por defecto**.
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 24px; color: #ECF0F1;">🌟 Siempre aprendiendo ... 🌟</p>
+- 🔐 Intereses: Threat Modeling, OWASP ASVS/Top 10, ATT&CK v18, hardening de APIs, SDLC seguro.
+- ⚙️ SecDevOps: CI/CD con escaneo (SAST/DAST/Secrets), SBOM, firmas, supply chain.
+- 🇨🇱 Contexto local: proyectos con datos y servicios de **Chile** (Regiones/Comunas, Metro Stgo, consumo energético residencial).
 
-## 🌐 Redes:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-diaz-450749247/)
+## 🚀 Proyectos destacados
+
+- **SINTEREC** (React/Redux + Node/Express + MySQL/MariaDB)  
+  Migración a HostingPlus (cPanel/CloudLinux), seguridad (JWT, bcrypt, helmet, hpp, rate limiting), documentación y FAQ públicas.  
+  _Rol:_ diseño de BD, migración Postgres→MySQL, hardening de backend y cabeceras.
+
+- **AhorraLuz (CAPSTONE)** – Django + análisis de consumo energético 🇨🇱  
+  Ingeniería de características (Year/Month/Hour/Is_Weekday), base para predicción de consumo/ahorro y huella de carbono.
+
+> 👉 _Fijé_ estos repos en mi perfil para ver código, pipelines y notas de seguridad.
+
+---
+
+## 🛡️ Mi “Secure Dev Stack”
+
+**Backend (Node/Express)**  
+`helmet` · `hpp` · `cors` · `express-rate-limit` · `bcrypt` · `jsonwebtoken` · `express-validator/validator`
+
+**Python/Django**  
+`django-environ` · `django-axes` · `django-secure` · cabeceras seguras · CSRF/HSTS
+
+**Análisis y calidad**  
+`eslint` (plugins de seguridad) · `prettier` · `pre-commit` hooks
+
+**AppSec / Supply chain**  
+`semgrep` (SAST) · `gitleaks` (secret scanning) · `trivy` (containers/SBOM) · `syft` (SBOM) · `pip-audit` / `npm audit`  
+**Infra/Contenedores:** Docker · GitHub Actions · (Opcional: Snyk/OSS Review Toolkit)
+
+---
+
+## 🧪 Prácticas que aplico
+
+- Modelos de amenaza (STRIDE/LINDDUN) y **mapeos ATT&CK v18** para detección.  
+- **OWASP ASVS** como checklist de historias de usuario seguras.  
+- **CI/CD con “quality gates”**: las PR deben pasar SAST, secret scan y linters.  
+- **SBOM** generado en build y publicado como artefacto.  
+- **Políticas de seguridad**: `SECURITY.md`, `CODEOWNERS`, `CONTRIBUTING.md`, commits convencionales y firmas GPG.
+
+---
+
+## 🧰 Tech que uso a diario
+
+![JavaScript](https://img.shields.io/badge/JS-ES2023-informational?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-informational?logo=node.js)
+![Express](https://img.shields.io/badge/Express-API-informational)
+![Python](https://img.shields.io/badge/Python-3.x-informational?logo=python)
+![Django](https://img.shields.io/badge/Django-Web-informational?logo=django)
+![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-SQL-informational?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-informational?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containers-informational?logo=docker)
+![AWS](https://img.shields.io/badge/Cloud-AWS%2FAzure-informational)
+![Git](https://img.shields.io/badge/Git-Flow-informational?logo=git)
+
+> Seguridad: ![Semgrep](https://img.shields.io/badge/SAST-Semgrep-informational) ![Gitleaks](https://img.shields.io/badge/Secrets-Gitleaks-informational) ![Trivy](https://img.shields.io/badge/Scan-Trivy-informational) ![Syft](https://img.shields.io/badge/SBOM-Syft-informational)
+
+---
+
+## 📊 Métricas
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8" height="150" />
+</p>
+
+> También uso [lowlighter/metrics] para un resumen semanal (commits, issues, lenguajes, etc.).
+
+---
+
+## 📝 Contacto
+
+- LinkedIn: [linkedin.com/in/williams-diaz-450749247](https://www.linkedin.com/in/williams-diaz-450749247/)
+- Email: *agrega tu correo si lo deseas*
+
+> 🌟 _Siempre aprendiendo y construyendo con foco en seguridad_.
