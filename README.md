@@ -41,6 +41,24 @@
 
 ---
 
+
+## 🧰 Tech que uso a diario
+
+![JavaScript](https://img.shields.io/badge/JS-ES2023-informational?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-informational?logo=node.js)
+![Express](https://img.shields.io/badge/Express-API-informational)
+![Python](https://img.shields.io/badge/Python-3.x-informational?logo=python)
+![Django](https://img.shields.io/badge/Django-Web-informational?logo=django)
+![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-SQL-informational?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-informational?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containers-informational?logo=docker)
+![Git](https://img.shields.io/badge/Git-Flow-informational?logo=git)
+![Nmap](https://img.shields.io/badge/Nmap-network-informational)
+![Lua](https://img.shields.io/badge/Lua-scripting-informational?logo=lua)
+
+---
+
+
 ## 📊 Métricas
 
 <p>
