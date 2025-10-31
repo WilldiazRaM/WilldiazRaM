@@ -1,71 +1,43 @@
-# Will Diaz
+# Will Díaz
 
-**Ingeniero Informático** enfocado en **Desarrollo Seguro (AppSec)** y **SecDevOps**. Me interesa construir productos que sean **escalables, observables y seguros por defecto**.
-**Aprendiendo ML...**
+**Ingeniero Informático** en formación con interés en **Desarrollo Seguro (AppSec)** y herramientas de análisis de red. Construyo y despliego aplicaciones web y he experimentado con automatizaciones y scripts para análisis de tráfico y detección local.
 
-- 🔐 Intereses: Threat Modeling, OWASP ASVS/Top 10, ATT&CK v18, hardening de APIs, SDLC seguro.
-- ⚙️ SecDevOps: CI/CD con escaneo (SAST/DAST/Secrets), SBOM, firmas, supply chain.
-- 🇨🇱 Contexto local: proyectos con datos y servicios de **Chile** (Regiones/Comunas, Metro Stgo, consumo energético residencial).
+**Actualmente:** terminando *Back-End Engineer* y *Cybersecurity Fundamentals* en Codecademy.  
+**Aprendiendo:** conceptos de ML aplicados a series temporales (predicción de consumo energético).
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos y trabajos prácticos
 
 - **SINTEREC** (React/Redux + Node/Express + MySQL/MariaDB)  
-  Migración a HostingPlus (cPanel/CloudLinux), seguridad (JWT, bcrypt, helmet, hpp, rate limiting), documentación y FAQ públicas.  
-  _Rol:_ diseño de BD, migración Postgres→MySQL, hardening de backend y cabeceras.
+  Migración y puesta en marcha en nuevo hosting (HostingPlus). Ajustes en configuración de DNS, migración de base de datos (Postgres → MySQL/MariaDB), y hardening básico de backend (cabeceras, autenticación con JWT, uso de bcrypt. Confuguracion de DNS y dominio).
 
 - **AhorraLuz (CAPSTONE)** – Django + análisis de consumo energético 🇨🇱  
-  Ingeniería de características (Year/Month/Hour/Is_Weekday), base para predicción de consumo/ahorro y huella de carbono.
+  Preparación y transformación de datos para modelos predictivos (features temporales: Year, Month, Hour, Is_Weekday, etc.).
 
-- **TallerMk** – Django + Taller mecanico + Reservas Online, Formulario de contacto 🇨🇱  
-  Pyme impulsada localmente, Puente Alto Santiago Chile.
+- **TallerMk** – Django para PyME (reservas online, formulario de contacto) — despliegue en Hosting Nacional con Interfaz Cpanel.
 
-
-
----
-
-## 🛡️ Mi “Secure Dev Stack”
-
-**Backend (Node/Express)**  
-`helmet` · `hpp` · `cors` · `express-rate-limit` · `bcrypt` · `jsonwebtoken` · `express-validator/validator`
-
-**Python/Django**  
-`django-environ` · `django-axes` · `django-secure` · cabeceras seguras · CSRF/HSTS
-
-**Análisis y calidad**  
-`eslint` (plugins de seguridad) · `prettier` · `pre-commit` hooks
-
-**AppSec / Supply chain**  
-`semgrep` (SAST) · `gitleaks` (secret scanning) · `trivy` (containers/SBOM) · `syft` (SBOM) · `pip-audit` / `npm audit`  
-**Infra/Contenedores:** Docker · GitHub Actions · (Opcional: Snyk/OSS Review Toolkit)
+- **Automatizaciones y análisis de red:**  
+  He desarrollado scripts para integración con mitmproxy y análisis TLS/JA3, incluyendo un motor SOAR/mitigación en Python (ejemplo: `soar_mitigation_automation.py`). :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🧪 Prácticas que aplico
+## 🛠️ Qué uso y conozco (nivel)
 
-- Modelos de amenaza (STRIDE/LINDDUN) y **mapeos ATT&CK v18** para detección.  
-- **OWASP ASVS** como checklist de historias de usuario seguras.  
-- **CI/CD con “quality gates”**: las PR deben pasar SAST, secret scan y linters.  
-- **SBOM** generado en build y publicado como artefacto.  
-- **Políticas de seguridad**: `SECURITY.md`, `CODEOWNERS`, `CONTRIBUTING.md`, commits convencionales y firmas GPG.
+- **Diario / fluido:** JavaScript (Node), Python, React, Django, MySQL/MariaDB, Docker (uso básico), Git.  
+- **Herramientas de despliegue:** Netlify (front), Render.com (backends) — despliegue automático.  
+- **Redes / seguridad práctica:** Nmap (scans y scripting con **Lua**), mitmproxy (scripts y análisis TLS/JA3), Wireshark (análisis de paquetes), uso básico de Parrot OS.  
+- **Cursos / fundamentos:** Codecademy — *Back-End Engineer*, *Cybersecurity Fundamentals* (en curso/reciente).
 
 ---
 
-## 🧰 Tech que uso a diario
+## 🧩 Prácticas y buenas costumbres que aplico (reales / concretas)
 
-![JavaScript](https://img.shields.io/badge/JS-ES2023-informational?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-LTS-informational?logo=node.js)
-![Express](https://img.shields.io/badge/Express-API-informational)
-![Python](https://img.shields.io/badge/Python-3.x-informational?logo=python)
-![Django](https://img.shields.io/badge/Django-Web-informational?logo=django)
-![MySQL/MariaDB](https://img.shields.io/badge/MySQL%2FMariaDB-SQL-informational?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-informational?logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-Containers-informational?logo=docker)
-![AWS](https://img.shields.io/badge/Cloud-AWS%2FAzure-informational)
-![Git](https://img.shields.io/badge/Git-Flow-informational?logo=git)
+- Aplico **checklist OWASP Top 10** para revisar vulnerabilidades comunes en mis aplicaciones web (XSS, CSRF, inyección, etc.).  
+- Configuro cabeceras de seguridad en apps Express/Django (`helmet`, HSTS, X-Frame-Options) y validaciones de entrada (express-validator / validators).  
+- Uso herramientas de análisis local y scripting para auditoría de red (Nmap, mitmproxy) y para generar datos de investigación/alertas (scripts en Python).
 
-> Seguridad: ![Semgrep](https://img.shields.io/badge/SAST-Semgrep-informational) ![Gitleaks](https://img.shields.io/badge/Secrets-Gitleaks-informational) ![Trivy](https://img.shields.io/badge/Scan-Trivy-informational) ![Syft](https://img.shields.io/badge/SBOM-Syft-informational)
+> Nota: Actualmente estoy incorporando prácticas de CI/CD seguro y escaneo automatizado (SAST/secret-scan) — en algunos proyectos lo tengo configurado como pasos manuales o semi-automáticos, y en otros estoy preparando workflows para automatizarlo completamente.
 
 ---
 
@@ -78,14 +50,20 @@
 
 ![Metrics](./github-metrics.svg)
 
+---
+
+## 📚 Formación y aprendizaje
+
+- Codecademy: *Back-End Engineer* (en proceso), *Cybersecurity Fundamentals*.  
+- Práctica con herramientas: Nmap + scripting (Lua), mitmproxy (scripts para JA3 / TLS), Wireshark, despliegues en Netlify/Render.
 
 ---
 
-## 📝 Contacto
+## 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/williams-diaz-450749247](https://www.linkedin.com/in/williams-diaz-450749247/)
+- LinkedIn: https://www.linkedin.com/in/williams-diaz-450749247/  
 - Email: wi.diaz@duocuc.cl
 
+---
 
-
-> 🌟 _Siempre aprendiendo y construyendo con foco en seguridad_.
+> 🌟 Siempre aprendiendo — más interesado en construir soluciones prácticas y seguras que en listar demasiadas tecnologías que no uso activamente.
