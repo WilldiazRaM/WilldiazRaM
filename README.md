@@ -27,7 +27,7 @@
 - **Diario / fluido:** JavaScript (Node), Python, React, Django, MySQL/MariaDB, Docker (uso básico), Git.  
 - **Herramientas de despliegue:** Netlify (front), Render.com (backends) — despliegue automático.  
 - **Redes / seguridad práctica:** Nmap (scans y scripting con **Lua**), mitmproxy (scripts y análisis TLS/JA3), Wireshark (análisis de paquetes), uso básico de Parrot OS.  
-- **Cursos / fundamentos:** Codecademy — *Back-End Engineer*, *Cybersecurity Fundamentals* (en curso/reciente).
+- **Cursos / fundamentos:** Codecademy — *Back-End Engineer*, *Cybersecurity Fundamentals* , *Scan System with Nmap*, *Iniciando Machine Learning Engineer AI*.
 
 ---
 
@@ -66,4 +66,4 @@
 
 ---
 
-> 🌟 Siempre aprendiendo — más interesado en construir soluciones prácticas y seguras que en listar demasiadas tecnologías que no uso activamente.
+> 🌟 Siempre aprendiendo y aportando...
