@@ -68,9 +68,10 @@
 ## 📊 Métricas
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilldiazRaM&show_icons=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilldiazRaM&layout=compact&langs_count=8" height="150" />
 </p>
+
 
 > También uso [lowlighter/metrics] para un resumen semanal (commits, issues, lenguajes, etc.).
 
