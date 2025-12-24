@@ -1,0 +1,46 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "30 10 * * 1,4"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # PAT con permisos 'repo' (para ver privados)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Token interno del workflow para commitear en este repo
+          committer_token: ${{ github.token }}
+
+          user: WilldiazRaM
+
+          # 👇 Usa el mismo nombre que intentaba el action en tu log
+          filename: github-metrics.svg
+
+          # (Opcional) fuerza rama de destino
+          committer_branch: main
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Santiago
+
+          # Repos privados
+          repositories_private: yes
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator, organization_member
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_traffic: yes
+
+          # Debug útil y reintentos
+          log: debug
+          retries: 2
+          retries_delay: 300
