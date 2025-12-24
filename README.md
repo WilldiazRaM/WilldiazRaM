@@ -108,42 +108,10 @@ Desarrollo y optimización de sitio web corporativo para empresa de ingeniería 
 
 ## Prácticas de Seguridad Aplicadas
 
-<<<<<<< HEAD
 - Auditoría de vulnerabilidades basada en OWASP Top 10.
 - Mecanismos de autenticación segura y hashing de contraseñas.
 - Validación estricta de entradas (Input Validation).
 - Configuración de cabeceras de seguridad (HSTS, X-Frame-Options, CSP).
-=======
-**Contexto:**  
-Desarrollo y optimización de sitio web corporativo para empresa de ingeniería energética (calderas y servicios eléctricos), con foco en **captación orgánica de clientes locales** en Región Metropolitana y V Región.
-
-**Aporte técnico clave:**
-- Arquitectura **Next.js App Router** con rutas dinámicas.
-- Implementación de **SEO técnico avanzado**:
-  - Sitemap dinámico
-  - Metadata por página (title, description, canonical, Open Graph)
-  - **Schema.org (JSON-LD):** LocalBusiness, Service, FAQPage, Breadcrumbs.
-- **Cluster SEO geográfico**:
-  - Páginas localizadas por comuna (Valparaíso, Viña del Mar, Algarrobo, etc.)
-  - Interlinking horizontal entre comunas vecinas.
-- Optimización UX + conversión:
-  - CTAs contextuales por página
-  - Botón **WhatsApp reutilizable** con mensaje prellenado según contexto
-  - Copy técnico orientado a “dolor del cliente” (corrosión marina, continuidad operacional).
-- Performance y seguridad:
-  - Cabeceras HTTP de seguridad (CSP, X-Frame-Options, etc.)
-  - Deploy productivo en **Vercel** con observabilidad básica.
-
-
-------
-
-### 🔹 TallerMk  
-**Stack:** Django · HTML/CSS · PostgreSQL  
-
-- Sistema web para PyME (reservas online y formulario de contacto).
-- Despliegue en hosting nacional con **cPanel**.
-- Integración backend–frontend y manejo de formularios seguros.
->>>>>>> b1097d279c37d86231ce8172b7a68bbf70e193ef
 
 ---
 
