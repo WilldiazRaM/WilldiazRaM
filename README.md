@@ -88,7 +88,6 @@ Desarrollo y optimización de sitio web corporativo para empresa de ingeniería 
   - Cabeceras HTTP de seguridad (CSP, X-Frame-Options, etc.)
   - Deploy productivo en **Vercel** con observabilidad básica.
 
-[Visitar IVS Energy](https://ivsenergy.cl)
 
 ------
 
