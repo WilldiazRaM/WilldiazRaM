@@ -1,153 +1,121 @@
-# Will Díaz
-
-**Ingeniero Informático (Egresado 2025)** con foco en **Back-End Development** y **Desarrollo Seguro (AppSec)**.  
-Experiencia práctica construyendo, desplegando y asegurando aplicaciones web, junto con scripting para análisis de red y automatización de tareas de seguridad.
-
-📍 **Chile**  
-🎯 **Interés principal:** Back-End · AppSec · Automatización · Análisis de red  
-🧠 **Perfil:** base técnica sólida + aprendizaje continuo
-
----
-
-## 👨‍💻 Perfil profesional
-
-Ingeniero Informático egresado (2025) con experiencia práctica en desarrollo web **full-stack orientado a back-end**, despliegues en entornos productivos y aplicación de **buenas prácticas de seguridad**.
-
-He trabajado en proyectos reales utilizando **Node.js, Django, React y bases de datos SQL**, aplicando controles de seguridad comunes (OWASP Top 10), autenticación segura, validación de datos y configuración de cabeceras HTTP.
-
-Complemento el desarrollo con **análisis de red**, scripting y automatización para observabilidad y detección local.
+<div align="center">
+  <img src="image/duocUC.png" alt="Logo Duoc UC" width="180" />
+  <h1>Will Díaz</h1>
+  <h3>Ingeniero Informático (Egresado 2025)</h3>
+  <p>Back-End Development | AppSec | Automatización | Análisis de Red</p>
+  <p>
+    <a href="https://www.linkedin.com/in/williams-diaz-450749247/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="mailto:wi.diaz@duocuc.cl">wi.diaz@duocuc.cl</a>
+  </p>
+</div>
 
 ---
 
-## 🛡️ Security Engineering Snapshot
+## Perfil Profesional
 
-- 🔐 **Autenticación y acceso:** JWT + bcrypt, expiración de tokens y control de sesiones.  
-- 🧪 **Testing de seguridad local:** análisis de red y tráfico con Nmap, mitmproxy y Wireshark.  
-- 🧱 **Hardening backend:** cabeceras HTTP, rate limiting, validación de entradas y manejo de errores.  
-- 📜 **Buenas prácticas y referencias:** OWASP Top 10, CWE y CVE como guía de revisión.  
-- ⚙️ **Automatización:** scripts en Python para análisis, apoyo a auditorías y generación de alertas.
+Ingeniero Informático egresado de la Escuela de Informática y Telecomunicaciones de Duoc UC. Poseo experiencia práctica en desarrollo web full-stack con especialización en Back-End, despliegues en entornos productivos y aplicación de buenas prácticas de seguridad.
 
-> Enfoque orientado a **prevención**, **observabilidad** y **reducción de la superficie de ataque**.
+He trabajado en proyectos reales utilizando Node.js, Django, React y bases de datos SQL, implementando controles de seguridad alineados a OWASP Top 10, tales como autenticación robusta, validación de datos estricta y configuración de cabeceras HTTP. Complemento mi perfil de desarrollo con capacidades de análisis de red, scripting y automatización para observabilidad y detección de amenazas.
 
 ---
 
-## 🧠 Cómo trabajo
+## Ingeniería de Seguridad (Security Engineering Snapshot)
 
-- **Diseño primero:** modelo de datos y estructura de base de datos como punto de partida.  
-- **Arquitectura progresiva:** definición de API, autenticación y control de acceso antes de exponer funcionalidades.  
-- **Implementación incremental:** controladores claros, validaciones consistentes y lógica desacoplada.  
-- **Defensive coding:** manejo explícito de errores, logs útiles y límites operacionales (rate limiting, timeouts).  
-- **Revisión final:** checklist de seguridad y validación funcional antes del despliegue.
+| Área | Herramientas y Prácticas |
+| :--- | :--- |
+| **Autenticación y Acceso** | Implementación de JWT + bcrypt, gestión de expiración de tokens y control de sesiones seguras. |
+| **Testing de Seguridad** | Análisis de tráfico y red utilizando Nmap, mitmproxy y Wireshark en entornos controlados. |
+| **Hardening Backend** | Configuración de cabeceras HTTP, implementación de rate limiting, validación de entradas y manejo seguro de errores. |
+| **Estándares** | Revisión de código basada en OWASP Top 10, CWE y CVE. |
+| **Automatización** | Desarrollo de scripts en Python para análisis de logs, apoyo a auditorías y generación de alertas. |
 
-> Prioridad en **claridad, mantenibilidad y seguridad**, evitando exponer detalles innecesarios de la implementación interna.
-
----
-
-## 🚀 Proyectos destacados
-
-### 🔹 SINTEREC  
-**Stack:** React · Redux · Node.js · Express · MySQL / MariaDB  
-
-- Migración completa de hosting y base de datos (PostgreSQL → MySQL/MariaDB).
-- Configuración de **DNS y dominio** en entorno productivo.
-- Backend con **JWT + bcrypt**, validaciones de entrada y hardening básico.
-- Ajustes de seguridad en cabeceras HTTP y control de acceso.
+> Enfoque principal: Prevención, observabilidad y reducción de la superficie de ataque.
 
 ---
 
-### 🔹 AhorraLuz (CAPSTONE) 🇨🇱  
-**Stack:** Django · PostgreSQL · Python  
+## Metodología de Trabajo
 
-- Plataforma de análisis de consumo energético.
-- Preparación y transformación de datos para modelos predictivos.
-- Feature engineering temporal: `Year`, `Month`, `Hour`, `IsWeekday`, etc.
-- Proyecto académico evaluado y aprobado como **Capstone de Ingeniería**.
-
----
-
-### 🔹 IVS Energy — Web corporativa con SEO técnico y generación de leads  
-**Stack:** Next.js (App Router) · TypeScript · Tailwind CSS · SEO técnico · Vercel  
-
-**Contexto:**  
-Desarrollo y optimización de sitio web corporativo para empresa de ingeniería energética (calderas y servicios eléctricos), con foco en **captación orgánica de clientes locales** en Región Metropolitana y V Región.
-
-**Aporte técnico clave:**
-- Arquitectura **Next.js App Router** con rutas dinámicas.
-- Implementación de **SEO técnico avanzado**:
-  - Sitemap dinámico
-  - Metadata por página (title, description, canonical, Open Graph)
-  - **Schema.org (JSON-LD):** LocalBusiness, Service, FAQPage, Breadcrumbs.
-- **Cluster SEO geográfico**:
-  - Páginas localizadas por comuna (Valparaíso, Viña del Mar, Algarrobo, etc.)
-  - Interlinking horizontal entre comunas vecinas.
-- Optimización UX + conversión:
-  - CTAs contextuales por página
-  - Botón **WhatsApp reutilizable** con mensaje prellenado según contexto
-  - Copy técnico orientado a “dolor del cliente” (corrosión marina, continuidad operacional).
-- Performance y seguridad:
-  - Cabeceras HTTP de seguridad (CSP, X-Frame-Options, etc.)
-  - Deploy productivo en **Vercel** con observabilidad básica.
-
-[Visitar IVS Energy](https://ivsenergy.cl)
-
-------
-
-### 🔹 TallerMk  
-**Stack:** Django · HTML/CSS · PostgreSQL  
-
-- Sistema web para PyME (reservas online y formulario de contacto).
-- Despliegue en hosting nacional con **cPanel**.
-- Integración backend–frontend y manejo de formularios seguros.
+- **Diseño primero:** Definición del modelo de datos y estructura de base de datos como punto de partida.
+- **Arquitectura progresiva:** Establecimiento de API, autenticación y control de acceso antes de exponer funcionalidades al cliente.
+- **Implementación incremental:** Desarrollo de controladores claros, validaciones consistentes y lógica de negocio desacoplada.
+- **Defensive Coding:** Manejo explícito de excepciones, logs estructurados y límites operacionales (timeouts, rate limits).
+- **Revisión final:** Ejecución de checklist de seguridad y validación funcional previa al despliegue.
 
 ---
 
-### 🔹 Automatización y análisis de red
+## Proyectos Destacados
 
-- Scripts en **Python** para análisis de tráfico y eventos.
-- Integración con **mitmproxy** para inspección TLS / fingerprints JA3.
-- Uso de **Nmap** (scans y NSE scripting en Lua).
-- Laboratorio práctico en **Parrot OS** y Wireshark.
+### SINTEREC
+**Stack:** React, Redux, Node.js, Express, MySQL / MariaDB
 
----
+- Migración completa de infraestructura de hosting y motor de base de datos (PostgreSQL a MySQL/MariaDB).
+- Configuración de DNS y dominio en entorno productivo.
+- Desarrollo de Backend seguro con JWT y validaciones de entrada.
+- Implementación de cabeceras de seguridad HTTP y control de acceso.
 
-## 🛠️ Tecnologías y herramientas
+### AhorraLuz (Capstone)
+**Stack:** Django, PostgreSQL, Python
 
-### Uso diario / fluido
-- **Lenguajes:** JavaScript (Node.js), Python  
-- **Frameworks:** Express, Django, React  
-- **Bases de datos:** MySQL / MariaDB, PostgreSQL  
-- **Control de versiones:** Git / GitHub  
+- Plataforma de análisis de consumo energético para optimización de recursos.
+- Procesamiento y transformación de datos (ETL) para modelos predictivos.
+- Ingeniería de características temporales para análisis de patrones de consumo.
+- Proyecto académico aprobado con distinción como Capstone de Ingeniería.
 
-### Despliegue
-- Netlify (frontend)
-- Render.com (backends)
-- Hosting tradicional con cPanel
-- Docker (uso básico)
+### IVS Energy — Web Corporativa y SEO Técnico
+**Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Vercel
 
-### Redes y seguridad
-- Nmap (scanning + Lua scripting)
-- mitmproxy (scripts y análisis TLS/JA3)
-- Wireshark
-- Parrot OS (nivel laboratorio)
+Desarrollo y optimización de sitio web corporativo para empresa de ingeniería energética, enfocado en la captación orgánica de clientes.
 
----
+- **Arquitectura:** Next.js App Router con rutas dinámicas.
+- **SEO Técnico:** Implementación de Schema.org (JSON-LD), sitemap dinámico y metadatos optimizados.
+- **Estrategia Local:** Cluster SEO geográfico para posicionamiento en comunas específicas.
+- **Performance y Seguridad:** Despliegue en Vercel con cabeceras de seguridad (CSP, X-Frame-Options).
 
-## 🔐 Prácticas de seguridad aplicadas
+### TallerMk
+**Stack:** Django, HTML/CSS, PostgreSQL
 
-- Revisión de vulnerabilidades según **OWASP Top 10**.
-- Autenticación segura (JWT, bcrypt).
-- Validación de entradas y manejo de errores.
-- Configuración de cabeceras de seguridad:
-  - HSTS  
-  - X-Frame-Options  
-  - Content-Security-Policy  
+- Sistema de gestión para PyME incluyendo reservas online y formularios de contacto.
+- Despliegue en infraestructura tradicional (cPanel).
+- Integración segura entre backend y frontend.
 
-> Actualmente incorporando **CI/CD seguro**, escaneo de secretos y SAST  
-> (automatizado en algunos proyectos, en preparación en otros).
+### Automatización y Análisis de Red
+- Scripts en Python para análisis de tráfico y detección de eventos.
+- Integración con mitmproxy para inspección TLS y análisis de fingerprints JA3.
+- Escaneo de redes y scripting con Nmap (Lua).
+- Laboratorio práctico en entornos Parrot OS.
 
 ---
 
-## 🧰 Stack visual
+## Tecnologías y Herramientas
+
+### Desarrollo
+- **Lenguajes:** JavaScript (Node.js), Python.
+- **Frameworks:** Express, Django, React.
+- **Bases de Datos:** MySQL / MariaDB, PostgreSQL.
+- **Control de Versiones:** Git, GitHub.
+
+### Infraestructura y Despliegue
+- **Plataformas:** Netlify, Render.com, Vercel.
+- **Hosting:** cPanel tradicional.
+- **Contenedores:** Docker (Nivel básico).
+
+### Seguridad y Redes
+- **Herramientas:** Nmap, mitmproxy, Wireshark.
+- **Sistemas Operativos:** Parrot OS (Laboratorio).
+
+---
+
+## Prácticas de Seguridad Aplicadas
+
+- Auditoría de vulnerabilidades basada en OWASP Top 10.
+- Mecanismos de autenticación segura y hashing de contraseñas.
+- Validación estricta de entradas (Input Validation).
+- Configuración de cabeceras de seguridad (HSTS, X-Frame-Options, CSP).
+
+---
+
+## Stack Visual
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-informational?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-LTS-informational?logo=node.js)
@@ -163,35 +131,22 @@ Desarrollo y optimización de sitio web corporativo para empresa de ingeniería 
 
 ---
 
-## 📊 Métricas GitHub
+## Métricas GitHub
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=WilldiazRaM&show_icons=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilldiazRaM&layout=compact&langs_count=8" height="150"/>
 </p>
 
-<!-- Generado automáticamente por .github/workflows/metrics.yml -->
 ![Metrics](./github-metrics.svg)
 
 ---
 
-## 📚 Formación y certificaciones
+## Formación y Certificaciones
 
-- **Ingeniería en Informática** — Egresado 2025  
-- **Codecademy**
-  - Back-End Engineer *(completado)*
-  - Cybersecurity Fundamentals *(completado)*
-  - Scan Systems with Nmap *(completado)*
+- **Ingeniería en Informática** — Duoc UC (Egresado 2025)
+- **Codecademy:**
+  - Back-End Engineer
+  - Cybersecurity Fundamentals
+  - Scan Systems with Nmap
   - Introducción a Machine Learning Engineer AI
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: https://www.linkedin.com/in/williams-diaz-450749247/  
-- ✉️ Email: wi.diaz@duocuc.cl
-
----
-
-> 🚀 Perfil orientado a mi **primer rol profesional Back-End / AppSec**,  
-> con fuerte base práctica, enfoque en seguridad y aprendizaje continuo.
