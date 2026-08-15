@@ -30,6 +30,8 @@ Ingeniero en Informática enfocado en el **ciclo de vida completo del software**
 
 Combino desarrollo backend sólido con **hardening**, automatización e **investigación de vulnerabilidades** — con reportes de impacto nacional escalados a través del **CSIRT** de Chile.
 
+Destaco por un **enfoque tecnológico agnóstico**, lo que me permite adaptarme fluidamente a diferentes lenguajes y ecosistemas. Asimismo, optimizo el ciclo de vida del software (SDLC) integrando herramientas de IA Generativa, aplicando estrictas políticas de **Data Loss Prevention (DLP)** y sanitización de contexto para garantizar la protección absoluta de secretos e información confidencial frente a modelos de terceros.
+
 > 🎯 **Disponible para proyectos freelance y postulaciones formales** en Cloud / DevOps / Backend seguro.
 
 ---
