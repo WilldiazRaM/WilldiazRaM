@@ -38,7 +38,7 @@ Combino desarrollo backend sólido con **hardening**, automatización e **invest
 
 ### 🛡️ Kyrios Grid Shield — *SOC SaaS Zero Trust* `en desarrollo`
 Plataforma **SaaS de seguridad Zero Trust** (SOC) construida como monorepo y desplegada en **Azure**.
-- **Arquitectura:** React (frontend) · FastAPI (gateway) · Node.js (microservicio de auth)
+- **Arquitectura:** Microservicios: React (frontend) · FastAPI (gateway) · Node.js (microservicio de auth)
 - **Auth avanzada:** JWT interno unificado sobre **Microsoft Entra ID (RS256)** + **Google OAuth**, más API Keys **M2M** con caché JWKS.
 - **Features:** análisis de archivos, MFA TOTP, telemetría/DLP y gestión de integraciones.
 - **Cloud:** Azure Static Web Apps + Container Apps.
@@ -49,7 +49,7 @@ Plataforma **SaaS de seguridad Zero Trust** (SOC) construida como monorepo y des
 
 ### 🌐 [SINTEREC](https://sinterec.cl) — *Plataforma Sindicato CLARO Chile* `en producción`
 App web full-stack para **+1.000 socios activos**.
-- Arquitectura desacoplada con **CI/CD** y despliegue continuo.
+- Arquitectura MVC desacoplada con **CI/CD** y despliegue continuo.
 - Backend seguro: **JWT + bcrypt**, control de roles, rate limiting anti-DDoS.
 - Migración productiva **PostgreSQL → MySQL/MariaDB** sin pérdida de datos.
 - Endpoints de **telemetría** (métricas JSON) para monitoreo de latencia y estados HTTP.
@@ -70,6 +70,7 @@ Sitio de una startup de ingeniería eléctrica, optimizado para captación orgá
 
 ### 🔋 AhorraLuz — *Capstone (aprobado con distinción)*
 Plataforma de análisis de consumo energético con modelo predictivo.
+- **Arquitectura:** MVT (Django)
 - **ETL** de datos energéticos + **Data Warehouse** (hechos/dimensiones).
 - Ingeniería de características temporales y **modelo ML** de consumo.
 - Dashboard BI en **Power BI** con KPIs.
