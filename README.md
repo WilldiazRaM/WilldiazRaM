@@ -70,6 +70,17 @@ Sitio de una startup de ingeniería eléctrica, optimizado para captación orgá
 
 <br>
 
+### 🚗 [Lubricentro Esquivel](https://www.lubricentroesquivel.cl/) — *Plataforma Web & Generación de Leads* `en producción`
+Solución web de alto rendimiento construida para un taller automotriz, diseñada para escalar su presencia digital y automatizar la captación de nuevos clientes particulares y flotas corporativas (B2B).
+
+- **Data & Tracking API:** Desarrollo de API Serverless para telemetría de eventos, capturando parámetros UTM y scoring dinámico, con ingesta en PostgreSQL (Neon) y alertas asíncronas vía Telegram.
+- **Seguridad & Edge:** Implementación de políticas de cabeceras estrictas (CSP, HSTS, X-Frame-Options) sin disrupción de iframes de terceros (Google Maps).
+- **SEO Técnico & Adquisición B2B:** Inyección de microdatos JSON-LD (Schema.org), landing pages específicas para convenios de flotas (B2B) con enrutamiento de leads, y optimización para Core Web Vitals en verde.
+
+`Next.js 15` `TypeScript` `PostgreSQL (Neon)` `Tailwind v4` `Telegram API` `Serverless`
+
+<br>
+
 ### 🔋 AhorraLuz — *Capstone (aprobado con distinción)*
 Plataforma de análisis de consumo energético con modelo predictivo.
 - **Arquitectura:** MVT (Django)
